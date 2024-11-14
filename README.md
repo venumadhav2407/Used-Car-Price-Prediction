@@ -20,6 +20,11 @@ The final model is deployed as an interactive web application using Streamlit, a
    - **Real-time Prediction**: Displays predicted price using the trained Random Forest model.
    - **Backend**: Loaded model and scalers with `pickle`, ensuring preprocessing consistency.
 
+## App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://redbus-app.streamlit.app/)
+
+
 ![image](https://github.com/user-attachments/assets/ee1ae5ba-bee4-41b2-b7ce-75e9322a820f)
 
 
